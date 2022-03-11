@@ -1,0 +1,26 @@
+{
+  "name": "qz-weapp",
+  "version": "0.0.2",
+  "author": {
+    "name": "qi-zai",
+    "email": "15248448516@163.com"
+  },
+  "description": "gulp小程序项目",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/qi-zai/qz-weapp#readme",
+  "keywords": [
+    "gulp",
+    "weapp"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qi-zai/qz-weapp.git"
+  }
+}
